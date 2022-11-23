@@ -21,7 +21,11 @@
 * [Book Engine Deployment Link]()
 
 ### **Installation**
-* Heroku Variable + Mongo DB Atlas connection added
+* Created Mongo DB Atlas account + connection
+* Heroku Config Vars added
+* Changed connection on Connection.js file
+* Follow instructions on [Set Up MongoDB Atlas](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-set-up-mongodb-atlas)
+* Follow instructions on [Deploy with Heroku and MongoDB Atlas](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas)
 
 ### **Tests**
 
@@ -33,6 +37,7 @@
 ### **Questions**
 
 * Contact me with questions via [GitHub](https://github.com/NDF-WEB-DEV) or send an email to: nordleendefrias@gmail.com
+
 ### **Report Issues**
 
 * send me an email
@@ -40,6 +45,7 @@
 ### **Contributions**
 
 * This is a school project.
+
 ### **Credits**
 
 * n/a
