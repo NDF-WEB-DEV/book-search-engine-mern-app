@@ -21,7 +21,7 @@
 * [Book Engine Deployment Link]()
 
 ### **Installation**
-* n/a
+* Heroku Variable + Mongo DB Atlas connection added
 
 ### **Tests**
 
